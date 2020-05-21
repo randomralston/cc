@@ -75,8 +75,8 @@ body:after {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    background: #207561;
-    border-color: #207561;
+    background: #38285f;
+    border-color: #38285f;
     color: #fff; }
     .btn.btn-primary:hover {
       background: #000;
@@ -653,7 +653,7 @@ body:after {
       height: 50px;
       line-height: 50px;
       border-radius: 50%;
-      background: #207561;
+      background: #553e8c;
       display: inline-block;
       color: #fff;
       text-align: center; }
